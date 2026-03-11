@@ -19,9 +19,10 @@ This prototype aims to provide people with a mental health support app. It targe
 
 # Repository Structure
 - `/planning` - Contains project plan, requirements
-- Trello link:https://trello.com/invite/b/6991736e57fdfbb2303edcbe/ATTI5d9992d01bc788d15aded4f1720c639475151CFA/its610204-sdg-3-health-app-group-6
+- Trello Link:https://trello.com/invite/b/6991736e57fdfbb2303edcbe/ATTI5d9992d01bc788d15aded4f1720c639475151CFA/its610204-sdg-3-health-app-group-6
+- Survey Link:https://docs.google.com/forms/d/e/1FAIpQLSf6ai9gc_C-Y0A_bHy6asyHxhhs4wRPo9bKOQNgv8aTJgRISg/viewform?usp=publish-editor
 - `/design` - Contains UML diagrams (UC & Class), wireframes, and mockups.
-- 
+- Figma Link:https://www.figma.com/design/5Qks8n39tvMX0CkszEZGOf/Untitled?node-id=0-1&p=f&t=OexFoZJSLiDMAQds-0
 - `/testing` - Contains prototype feedback and testing notes and a link to a Google Forms survery for stakeholders.
-- 
+- Figma Link:https://www.figma.com/design/5Qks8n39tvMX0CkszEZGOf/Untitled?node-id=0-1&p=f&t=OexFoZJSLiDMAQds-0
 - `/final` - Contains final prototype screenshots and summary of results.
